@@ -24,6 +24,6 @@ color:
     - '#ababab'
   brandStrength: 0.7650347438175231
   lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
