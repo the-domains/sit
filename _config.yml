@@ -1,7 +1,7 @@
 name: SIT
 favicon: null
-layout_spectrum: 0.23154
-typography_spectrum: 0.20402
+layout_spectrum: 1
+typography_spectrum: 0.49962
 title: Solutions For Innovative Technology GmbH
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#777777'
     - '#ababab'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0
   saturation: 1
   rhythmicContrast: 1
