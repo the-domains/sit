@@ -1,20 +1,4 @@
-name: SIT
-favicon: null
-layout_spectrum: 0.51122
 typography_spectrum: 0.51271
-title: Solutions For Innovative Technology GmbH
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1d1d1d'
@@ -26,4 +10,24 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.51122
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Sven Wiese-Solty
+  email: s.wiese-solty@sforit.de
+  url: www.sforit.de
+name: SIT
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Solutions For Innovative Technology GmbH
 purpose: []
